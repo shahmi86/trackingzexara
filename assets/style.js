@@ -33,7 +33,7 @@ export default StyleSheet.create({
         "fontFamily": "Source Sans Pro, Arial, sans-serif"
     },
     "td": {
-        "minWidth": 240,
+        "minWidth": 200,
         "verticalAlign": "top",
         "paddingTop": 10,
         "paddingRight": 10,
